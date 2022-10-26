@@ -1,0 +1,22 @@
+{
+  "name": "commitlint-runner",
+  "version": "1.0.0",
+  "description": "The runner to run commitlint (https://github.com/conventional-changelog/commitlint) with npx command",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anatawa12/commitlint-runner.git"
+  },
+  "author": "anatawa12",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anatawa12/commitlint-runner/issues"
+  },
+  "homepage": "https://github.com/anatawa12/commitlint-runner#readme",
+  "dependencies": {
+    "@commitlint/cli": "^17.1.2",
+    "@commitlint/config-conventional": "^17.1.0"
+  }
+}
